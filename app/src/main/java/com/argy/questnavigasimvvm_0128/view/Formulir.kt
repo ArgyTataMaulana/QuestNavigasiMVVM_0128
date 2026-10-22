@@ -1,4 +1,4 @@
-package com.example.p6_navigationdanmvvm.view
+package com.argy.questnavigasimvvm_0128.view
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
